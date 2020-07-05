@@ -1,0 +1,16 @@
+{
+  "kind": "singleType",
+  "collectionName": "fes",
+  "info": {
+    "name": "fe"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "fe": {
+      "type": "string"
+    }
+  }
+}

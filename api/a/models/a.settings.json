@@ -1,0 +1,16 @@
+{
+  "kind": "singleType",
+  "collectionName": "as",
+  "info": {
+    "name": "a"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "a": {
+      "type": "string"
+    }
+  }
+}
